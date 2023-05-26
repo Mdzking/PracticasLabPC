@@ -1,0 +1,11 @@
+6. El analisis de nmap
+• 1 script y 1 archivo de texto con los resultados codificados en
+base64
+– Obtener tu ip local y publica:
+∗ ip address
+∗ hostname -I
+∗ curl ifconfig.me
+– nmap a:
+∗ su segmento de red privado
+∗ una ip de su segmento (o scanme.nmap.org) con un script
+∗ su ip publica
